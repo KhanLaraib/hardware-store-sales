@@ -1,0 +1,5 @@
+Hardware Store Sales Analysis:
+ Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
+ Once sales directory of atliQ hardware has decided to invest in data analysis project he will do a meeting with IT director, data analytics team to come up with a plan. They will use AIMS grid to define purpose and success criteria of this project. 
+This database has all sales transactions, customers, products, and market information. We will analyse this database and then hook it up with power BI. In power BI we will perform ETL and data cleaning operations to make it ready so that we can build our dashboard.
+plug mysql database with Power BI. In power BI we will do data cleaning and ETL (Extract, transform, load). This process is also known as data munging or data wrangling. We will do currency normalization, handle invalid values, etc.
